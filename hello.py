@@ -1,3 +1,7 @@
-# Graham Rebhun gwr8xc
 
-print("Hello!")
+def greeting(msg):
+    print(msg)
+
+myMsg = "Hello!"
+
+greeting(myMsg)
